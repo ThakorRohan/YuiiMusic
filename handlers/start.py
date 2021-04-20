@@ -14,15 +14,12 @@ async def start(_, message: Message):
             [ 
                 [
                     InlineKeyboardButton(
-                        "📜 User Manual 📜", url="https://telegra.ph/Tohka-Yatogami-04-20")
+                        "➕ Add me to groups", url="t.me/Tohkamusic_bot?startgroup=true")
                   ],[
                     InlineKeyboardButton(
-                        "👨‍💻 Updates 👨‍💻", url="https://t.me/"
+                        "📜 User Manual 📜", url="https://telegra.ph/Tohka-Yatogami-04-20"
                     )
-                ],[ 
-                    InlineKeyboardButton(
-                        "Support Chat 🎙️", url="https://t.me/"
-                    )]
+                ]
             ]
         ),
      disable_web_page_preview=True
@@ -35,7 +32,7 @@ async def gstart(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🎙️ Support Group 🎙️", url="https://t.me/")
+                        "📜 User Manual 📜", url="https://telegra.ph/Tohka-Yatogami-04-20")
                 ]
             ]
         )
