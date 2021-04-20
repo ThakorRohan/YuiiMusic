@@ -14,7 +14,7 @@ async def start(_, message: Message):
             [ 
                 [
                     InlineKeyboardButton(
-                        "➕ Add me to groups", url="t.me/Tohkamusic_bot?startgroup=true")
+                        "➕ Add me to groups", url="t.me/TohkaMusic_bot?startgroup=true")
                   ],[
                     InlineKeyboardButton(
                         "📜 User Manual 📜", url="https://telegra.ph/Tohka-Yatogami-04-20"
