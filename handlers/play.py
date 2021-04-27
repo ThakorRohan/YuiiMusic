@@ -735,11 +735,6 @@ async def jiosaavn(client: Client, message_: Message):
              [
                InlineKeyboardButton('📖 Playlist', callback_data='playlist'),
                InlineKeyboardButton('Menu ⏯ ', callback_data='menu')   
-             ],                     
-             [
-               InlineKeyboardButton(
-                   text="Join Updates Channel",
-                   url='https://t.me/daisyxupdates')
              ],
              [       
                InlineKeyboardButton(
