@@ -18,7 +18,9 @@ async def start(_, message: Message):
                   ],[
                     InlineKeyboardButton(
                         "📜 User Manual 📜", url="https://telegra.ph/Tohka-Yatogami-04-20"
-                    )
+                    ), 
+                    InlineKeyboardButton(
+                        "Support", url="https://t.me/WeebXWorld") 
                 ]
             ]
         ),
