@@ -1,11 +1,11 @@
-<h1 align="centre">DAISYXMUSIC V3 🎵</h1>
+<h1 align="centre">Tohka Music 🎵</h1>
 
 ### A bot that can play music on telegram group's voice call
 
-# Available on telegram as @DaisyXbot
+# Available on telegram as @TohkaMusic_bot
 
 <p align="center">
-  <img src="https://telegra.ph/file/dd04b1968f1bc1169d162.jpg">
+  <img src="https://telegra.ph/file/e9aeacff57c03e6b3ac90.jpg">
 </p>
 
 <h2> Whats new 🔥 </h2>
@@ -47,7 +47,7 @@
 
 ### Deploy To Heroku</h4>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/teamdaisyx/DaisyXMusic)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DrazzDan/TohkaMusic)
 
 Use [@StringSessionGeneratorRobot](https://t.me/StringSessionGeneratorRobot) to get pyrogram string session
 
