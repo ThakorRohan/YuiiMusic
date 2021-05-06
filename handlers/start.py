@@ -20,7 +20,7 @@ async def start(_, message: Message):
                         "📜 User Manual 📜", url="https://telegra.ph/Tohka-Yatogami-04-20"
                     ), 
                     InlineKeyboardButton(
-                        "Support", url="https://t.me/WeebXWorld") 
+                        "Group", url="https://t.me/WeebXWorld") 
                 ],[
                   InlineKeyboardButton(
                         "Reports bugs and queries", url="https://t.me/Tohka_reports_bot") 
