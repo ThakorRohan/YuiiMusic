@@ -24,6 +24,7 @@ async def start(_, message: Message):
                 ],[
                   InlineKeyboardButton(
                         "Reports bugs and queries", url="https://t.me/Tohka_reports_bot") 
+               ]
             ]
         ),
      disable_web_page_preview=True
