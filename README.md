@@ -1,8 +1,8 @@
-<h1 align="centre">Tohka Music 🎵</h1>
+<h1 align="centre">Tedeza Music 🎵</h1>
 
 ### A bot that can play music on telegram group's voice call
 
-# Available on telegram as @TohkaMusic_bot
+# Available on telegram as @Tedeza_bot
 
 <p align="center">
   <img src="https://telegra.ph/file/e9aeacff57c03e6b3ac90.jpg">
